@@ -5,22 +5,22 @@
 	transition: background .45s ease, box-shadow .45s ease; }
 
 /* normal size */
-.MMM-WifiLink.wl-normal .wl-bars { gap: 8px; height: 70px; }
-.MMM-WifiLink.wl-normal .wl-bar { width: 17px; border-radius: 6px; }
-.MMM-WifiLink.wl-normal .wl-bar[data-i="1"] { height: 28px; }
-.MMM-WifiLink.wl-normal .wl-bar[data-i="2"] { height: 38px; }
-.MMM-WifiLink.wl-normal .wl-bar[data-i="3"] { height: 48px; }
-.MMM-WifiLink.wl-normal .wl-bar[data-i="4"] { height: 58px; }
-.MMM-WifiLink.wl-normal .wl-bar[data-i="5"] { height: 70px; }
+.MMM-WifiLink .wl-normal .wl-bars { gap: 8px; height: 70px; }
+.MMM-WifiLink .wl-normal .wl-bar { width: 17px; border-radius: 6px; }
+.MMM-WifiLink .wl-normal .wl-bar[data-i="1"] { height: 28px; }
+.MMM-WifiLink .wl-normal .wl-bar[data-i="2"] { height: 38px; }
+.MMM-WifiLink .wl-normal .wl-bar[data-i="3"] { height: 48px; }
+.MMM-WifiLink .wl-normal .wl-bar[data-i="4"] { height: 58px; }
+.MMM-WifiLink .wl-normal .wl-bar[data-i="5"] { height: 70px; }
 
 /* small size */
-.MMM-WifiLink.wl-small .wl-bars { gap: 4px; height: 44px; }
-.MMM-WifiLink.wl-small .wl-bar { width: 11px; border-radius: 4px; }
-.MMM-WifiLink.wl-small .wl-bar[data-i="1"] { height: 19px; }
-.MMM-WifiLink.wl-small .wl-bar[data-i="2"] { height: 26px; }
-.MMM-WifiLink.wl-small .wl-bar[data-i="3"] { height: 32px; }
-.MMM-WifiLink.wl-small .wl-bar[data-i="4"] { height: 38px; }
-.MMM-WifiLink.wl-small .wl-bar[data-i="5"] { height: 44px; }
+.MMM-WifiLink .wl-small .wl-bars { gap: 4px; height: 44px; }
+.MMM-WifiLink .wl-small .wl-bar { width: 11px; border-radius: 4px; }
+.MMM-WifiLink .wl-small .wl-bar[data-i="1"] { height: 19px; }
+.MMM-WifiLink .wl-small .wl-bar[data-i="2"] { height: 26px; }
+.MMM-WifiLink .wl-small .wl-bar[data-i="3"] { height: 32px; }
+.MMM-WifiLink .wl-small .wl-bar[data-i="4"] { height: 38px; }
+.MMM-WifiLink .wl-small .wl-bar[data-i="5"] { height: 44px; }
 
 .MMM-WifiLink .q-good .wl-bar.on { background: linear-gradient(180deg,#5fe07a,#2aa24a); box-shadow: 0 0 9px rgba(48,209,88,.55); }
 .MMM-WifiLink .q-mid  .wl-bar.on { background: linear-gradient(180deg,#ffd66b,#e6a92a); box-shadow: 0 0 9px rgba(255,214,10,.45); }
