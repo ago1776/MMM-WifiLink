@@ -1,0 +1,7 @@
+{
+	"WIFI_EXCELLENT": "Excellent",
+	"WIFI_GOOD": "Good",
+	"WIFI_FAIR": "Fair",
+	"WIFI_WEAK": "Weak",
+	"WIFI_DISCONNECTED": "disconnected"
+}

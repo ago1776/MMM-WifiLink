@@ -1,0 +1,9 @@
+{
+  "name": "mmm-wifilink",
+  "version": "1.0.0",
+  "description": "MagicMirror² module: iOS-style Wi-Fi signal bars coloured by link quality, read from `iw` (real dBm). Linux only.",
+  "main": "MMM-WifiLink.js",
+  "keywords": ["MagicMirror", "MMM-WifiLink", "wifi", "wlan", "signal", "iw"],
+  "author": "Andreas Göpfert",
+  "license": "MIT"
+}
