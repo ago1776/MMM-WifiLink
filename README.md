@@ -25,7 +25,7 @@ updates **in place** so it never flickers.
 
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com/<your-user>/MMM-WifiLink
+git clone https://github.com/ago1776/MMM-WifiLink
 ```
 
 Then add the module to `config/config.js`:
@@ -59,3 +59,4 @@ global `language` setting.
 ## License
 
 MIT © Andreas Göpfert
+
