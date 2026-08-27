@@ -11,7 +11,7 @@
     "signal",
     "iw"
   ],
-  "author": "Andreas Göpfert",
+  "author": "Andreas Göpfert <andi.goepfert@gmx.de> (https://github.com/ago1776)",
   "license": "MIT",
   "repository": {
     "type": "git",
